@@ -1,4 +1,4 @@
 # js-portfolio
 
 Random users profiles
-Learning how to use webpack.s
+Learning how to use webpack
